@@ -93,5 +93,3 @@
 
 ### Assosiation
 - belongs_to :user
-
-
